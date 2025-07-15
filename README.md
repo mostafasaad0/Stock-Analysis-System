@@ -7,9 +7,7 @@
 - [x] 3. [Mostafa Saad]
 - [x] 4. [Esraa Kamel]
 - [x] 5. [Mohamed Khaled]
-- [ ] [no contribute] 6. [Mahmoud Mohamed Elebiare]
-- [ ] [no contribute] 7. [Mohamed Alaa Eldin Fouad Ahmed Mansour]
-
+- [x] 6. [Mahmoud Mohamed Elebiare]
 # Demonstration video
 
 https://github.com/user-attachments/assets/851d209c-6ade-409c-b61f-98a11ca109fa
